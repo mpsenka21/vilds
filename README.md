@@ -1,6 +1,6 @@
 ## Black box variational inference for state space models
 
-Reference implementation of the algorithm described in the following publications:
+Reference implementation of the algorithms described in the following publications:
 
 >  Y Gao*, E Archer*, L Paninski, J Cunningham (2016). [Linear dynamical neural population models through nonlinear embeddings](http://arxiv.org/abs/1605.08454)
 
