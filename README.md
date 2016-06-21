@@ -16,6 +16,6 @@ To check out, run `git@github.com:earcher/vilds.git`
 
 The code is written in Python 2. In addition to standard scientific Python libraries (IPython, numpy, matplotlib), the code expects: 
 
-> [Theano](http://deeplearning.net/software/theano/)
-> (Lasagne)(http://github.com/Lasagne/Lasagne)
-> [dill](http://pypi.python.org/pypi/dill)
+* [Theano](http://deeplearning.net/software/theano/)
+* (Lasagne)(http://github.com/Lasagne/Lasagne)
+* [dill](http://pypi.python.org/pypi/dill)
