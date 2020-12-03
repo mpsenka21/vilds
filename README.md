@@ -1,6 +1,6 @@
 ## Black box variational inference for state space models
 
-(Note from mpsenka21, 12/3/2020): The notebook code/tutorial.ipynb has been updated to function when uploaded to Google Colab
+(Note from mpsenka21, 12/3/2020): The notebook code/tutorial.ipynb has been updated to function when uploaded to Google Colab. Usage: either upload this file directly to Colab via git functionality or download locally & upload, then run cells to upload the rest of the repository
 
 Reference implementation of the algorithms described in the following publications:
 
