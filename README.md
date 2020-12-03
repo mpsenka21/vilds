@@ -1,5 +1,7 @@
 ## Black box variational inference for state space models
 
+(Note from mpsenka21, 12/3/2020): The notebook code/tutorial.ipynb has been updated to function when uploaded to Google Colab
+
 Reference implementation of the algorithms described in the following publications:
 
 >  Y Gao*, E Archer*, L Paninski, J Cunningham (2016). [Linear dynamical neural population models through nonlinear embeddings](http://arxiv.org/abs/1605.08454)
